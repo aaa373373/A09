@@ -190,7 +190,7 @@ h2 {
   aside {
     float: none; /* Stops them from floating */
     padding-right: 1%; /* Set this to match your left padding */
-    width: calc(100% - [1%] - [1%]); /* Adjust width */
+    width: calc(100% - 1% - 1%); /* Adjust width */
   }
 
   article img {
